@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://sitemaps.org">
+    <!-- Main Premium Portal Root Landing Page -->
+    <url>
+        <loc>https://github.io</loc>
+        <changefreq>daily</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <!-- Top 50 High-Intent UK Geographic Target Matrices -->
+    <url><loc>https://github.iolondon</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+    <url><loc>https://github.iobirmingham</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+    <url><loc>https://github.iomanchester</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+    <url><loc>https://github.ioliverpool</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+    <url><loc>https://github.ioleeds</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+    <url><loc>https://github.ioglasgow</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+    <url><loc>https://github.ionewcastle</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+    <url><loc>https://github.ionottingham</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+    <url><loc>https://github.iobristol</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+    <url><loc>https://github.iosheffield</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+    <url><loc>https://github.ioleicester</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+    <url><loc>https://github.ioedinburgh</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+    <url><loc>https://github.ioportsmouth</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+    <url><loc>https://github.iobrighton</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+    <url><loc>https://github.iobelfast</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+    <url><loc>https://github.iocoventry</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+    <url><loc>https://github.iocardiff</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+    <url><loc>https://github.iobournemouth</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+    <url><loc>https://github.iomiddlesbrough</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+    <url><loc>https://github.iosouthampton</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+    <url><loc>https://github.iostoke</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+    <url><loc>https://github.iohull</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+    <url><loc>https://github.iowakefield</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+    <url><loc>https://github.iosouthend</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+    <url><loc>https://github.ioreading</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+    <url><loc>https://github.ioluton</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+    <url><loc>https://github.ioderby</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+    <url><loc>https://github.iogillingham</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+    <url><loc>https://github.ioplymouth</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+    <url><loc>https://github.ionorthampton</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+    <url><loc>https://github.iomilton-keynes</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+    <url><loc>https://github.ionorwich</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+    <url><loc>https://github.ioswindon</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+    <url><loc>https://github.ioblackpool</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+    <url><loc>https://github.ioaberdeen</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+    <url><loc>https://github.iopreston</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+    <url><loc>https://github.iosunderland</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+    <url><loc>https://github.iopeterborough</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+    <url><loc>https://github.ioipswich</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+    <url><loc>https://github.iooxford</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+    <url><loc>https://github.ioslough</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+    <url><loc>https://github.iodundee</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+    <url><loc>https://github.iohuddersfield</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+    <url><loc>https://github.iowarrington</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+    <url><loc>https://github.ioyork</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+    <url><loc>https://github.ioblackburn</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+    <url><loc>https://github.ioswansea</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+    <url><loc>https://github.ioburnley</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+    <url><loc>https://github.iocambridge</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+    <url><loc>https://github.iogloucester</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+</urlset>
+  
